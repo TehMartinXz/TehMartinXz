@@ -6,7 +6,7 @@
 
 Anyhow, algunas cosas sobre mí (con tilde)🎹:
 - I yo trabajar en ⚡ Sparked Host, LLC
-- Me especializo en algnas cosas
+- Me especializo en algunas cosas
 - No me especializo en muchas otras cosas
 - Ah, sí. [MilleniumMods](https://github.com/MilleniumMods) también. Checkéen eso :D
 - En mi carné dice que soy Chileno, a si que seguramente sea mentira
