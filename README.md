@@ -5,7 +5,7 @@
 *Cuenta la leyenda, que hace mucho tiempo, existió una civilización que observaba los cielos con temor...* ¿Ah?
 
 Anyhow, algunas cosas sobre mí (con tilde)🎹:
-- I yo trabajar en ⚡ Sparked Host, LLC
+- Estudiante de Astrofísica @ Universidad Técnica Federico Santa María
 - Me especializo en algunas cosas
 - No me especializo en muchas otras cosas
 - Ah, sí. [MilleniumMods](https://github.com/MilleniumMods) también. Checkéen eso :D
