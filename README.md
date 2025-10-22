@@ -1,8 +1,8 @@
 ### Jueves
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TehMartinXz&show_icons=true&theme=radical)
-
 *Cuenta la leyenda, que hace mucho tiempo, existió una civilización que observaba los cielos con temor...* ¿Ah?
+
+[Lead developer of AstraKairos (PLEASE CHECK THE DEVELOPMENT BRANCH)](https://github.com/AstraKairos/astrakairos/tree/development).
 
 Anyhow, algunas cosas sobre mí (con tilde)🎹:
 - Estudiante de Astrofísica @ Universidad Técnica Federico Santa María
