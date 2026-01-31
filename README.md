@@ -2,7 +2,7 @@
 
 *Cuenta la leyenda, que hace mucho tiempo, existió una civilización que observaba los cielos con temor...* ¿Ah?
 
-[Lead developer of AstraKairos (PLEASE CHECK THE DEVELOPMENT BRANCH)](https://github.com/AstraKairos/astrakairos/tree/development).
+[Lead developer of AstraKairos (PLEASE CHECK THE full-refactorization BRANCH)](https://github.com/AstraKairos/astrakairos/tree/full-refactorization).
 
 Anyhow, algunas cosas sobre mí (con tilde)🎹:
 - Estudiante de Astrofísica @ Universidad Técnica Federico Santa María
