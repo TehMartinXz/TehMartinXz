@@ -6,3 +6,4 @@ Me:
 - BSc in Astrophysics Student @ Universidad Técnica Federico Santa María
 - World-class expert in the art of measuring two dots in the sky
 - Future world-class expert in thermo-magnetohydrodynamics (hopefully)
+- I've mostly worked with NodeJS and Python, but have some experience with C#, Java, Bash, and SQL.
