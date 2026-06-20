@@ -1,4 +1,4 @@
-*All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.* - Sun Tzu
+*Most opportunities are created by luck. It takes skill to grasp those opportunities and turn them into success.* - Technoblade
 
 [Lead developer of AstraKairos (Still a WIP as of June 2026) (PLEASE CHECK THE full-refactorization BRANCH)](https://github.com/AstraKairos/astrakairos/tree/full-refactorization).
 
