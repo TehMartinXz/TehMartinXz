@@ -1,9 +1,8 @@
-*Most opportunities are created by luck. It takes skill to grasp those opportunities and turn them into success.* - Technoblade
+"*Most opportunities are created by luck. It takes skill to grasp those opportunities and turn them into success.*" - Technoblade
 
-[Lead developer of AstraKairos (Still a WIP as of June 2026) (PLEASE CHECK THE full-refactorization BRANCH)](https://github.com/AstraKairos/astrakairos/tree/full-refactorization).
-
-Me:
+### About me:
 - BSc in Astrophysics Student @ Universidad Técnica Federico Santa María
-- World-class expert in the art of measuring two dots in the sky
-- Future world-class expert in thermo-magnetohydrodynamics (hopefully)
-- I've mostly worked with NodeJS and Python, but have some experience with C#, Java, Bash, and SQL.
+- Alleged world-class expert in the art of measuring two dots in the sky
+- Future world-class expert in radiation-magnetohydrodynamics (hopefully)
+- I've mostly worked with NodeJS and Python, but I have some experience with C#, Java, Bash, and SQL.
+
